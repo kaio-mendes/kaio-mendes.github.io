@@ -17,7 +17,7 @@ body{
 }
 
 nav {
-    height: 3rem;
+    height: 5rem;
     display: flex;
     align-items: center;
     font-family: "Roboto", sans-serif;
@@ -50,7 +50,6 @@ a{
 }
 
 a:hover{
-    color: #ffa500;
     transition: color 0.5s ease;
 }
 
